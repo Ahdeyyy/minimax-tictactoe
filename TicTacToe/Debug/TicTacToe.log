@@ -1,0 +1,6 @@
+﻿  board.cpp
+  computer.cpp
+  main.cpp
+  Generating Code...
+C:\Users\ahdey\source\repos\TicTacToe\board.cpp(28): warning C4715: 'Board::isEmpty': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\ahdey\source\repos\TicTacToe\Debug\TicTacToe.exe
